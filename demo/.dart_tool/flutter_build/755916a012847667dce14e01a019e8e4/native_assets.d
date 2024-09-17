@@ -1,0 +1,1 @@
+ C:\\wordpress\\flutter_project\\demo\\.dart_tool\\flutter_build\\755916a012847667dce14e01a019e8e4\\native_assets.yaml: 
